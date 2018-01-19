@@ -1,0 +1,90 @@
+/*
+ * Padding made only on left and right to allow green
+ * background color gradient to go from top to bottom
+ */
+
+body{
+  padding: 0px 10px;
+  margin: 20px auto;
+}
+
+/*
+ * Encompassing the entire card's content
+ */
+.outer-border{
+  width: 300px;
+  border: 1px solid gray;
+  box-shadow: 5px 5px lightgray;
+}
+
+/*
+ * Styling the area within the 'card-border' class,
+ * with a light green to green radiant. Padding at the
+ * bottom adds a little more space for color gradient
+ */
+ 
+.inner-background{
+  background: linear-gradient(#dbffbc, #26a55b);
+  padding-bottom: 10px;
+}
+
+/*
+ * Styling title. Margin set to 0 because the backgroung gradient 
+ * would not continue to the top otherwise
+ */
+
+.title{
+  color: green;
+  padding-top: 10px;
+  margin-bottom: 5px;
+  margin-top: 0;
+  font-family: "Aclonica", Georgia, Serif;
+  text-align: center;
+  font-size: 30px;
+}
+/*
+ * Image required width and spacing between Image and animal description area
+ */
+
+.main-img{
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+/*
+ * Class directed toward styling the information section
+ */
+
+.animal-info{
+  border: 2px solid #26a55b;
+  padding: 10px;
+  font-size: 14px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+/*
+ * Brief description of Animal
+ */
+ 
+.brief-desc{
+  font-style: italic;
+}
+
+/*
+ * Styling for labels
+ */
+ 
+.label{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/*
+ * Padding of 0 removes the space from the left margin
+ */
+ 
+.list-items{
+  list-style-type: none;
+  padding: 0;
+}
