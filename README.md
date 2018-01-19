@@ -1,3 +1,12 @@
+
+<h1>Grow With Google Challenge Scholarship</h1>
+<h3>2018 Recipient</h3>
+
+<p>I have been accepted into the Beginner's Front-End Web Development track course for Google's <a href="https://www.udacity.com/grow-with-google"> Grow With Google Challenge Scholarship </a>. Out of 100,000 applicants, 50% were chose for four different track. 15,000 made it into this course. The top 10% performing students will make it to the second round, and be awared the full nanodegree scholarschip.</p>
+
+<p>In this repository, you will find my work as I progress through the lessons and learn along with the help of my peers</p>
+
+
 <strong>CURRICULUM SCHEDULE</strong>
 <br>
 <table>
