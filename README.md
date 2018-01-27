@@ -61,14 +61,14 @@
   </tr>
   <tr>
     <td>11</td>
-    <td>Data Types & Variables</td> 
+    <td><a href="https://github.com/lopezchelen/fend-udacity/tree/master/lesson11_data_types_variables">Data Types & Variables</a></td> 
     <td>01/27/18</td>
     <td>Completed</td>
     <td>01/16/18</td>
   </tr>
   <tr>
     <td>12</td>
-    <td>Conditionals</td> 
+    <td><a href="https://github.com/lopezchelen/fend-udacity/tree/master/lesson12_conditionals">Conditionals</a></td> 
     <td>02/06/18</td>
     <td>Completed</td>
     <td>01/27/18</td>
@@ -135,14 +135,14 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Project 1: Mockup to Article</td> 
+    <td><a href="https://github.com/lopezchelen/fend-udacity/tree/master/html_css/mockup-to-article">Project 1: Mockup to Article</a></td> 
     <td>01/18/18</td>
     <td>Completed</td>
     <td>01/11/18</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>Project 2: Animal Trading Cards</td> 
+    <td><a href="https://github.com/lopezchelen/fend-udacity/tree/master/html_css/fend-animal-trading-cards-master">Project 2: Animal Trading Cards</a></td> 
     <td>01/18/18</td>
     <td>Completed</td>
     <td>01/14/18</td>
