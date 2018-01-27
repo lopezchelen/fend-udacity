@@ -70,8 +70,8 @@
     <td>12</td>
     <td>Conditionals</td> 
     <td>02/06/18</td>
-    <td>Incomplete</td>
-    <td> </td>
+    <td>Completed</td>
+    <td>01/27/18</td>
   </tr>
   <tr>
     <td>13</td>
@@ -97,7 +97,7 @@
   <tr>
     <td>16</td>
     <td>Objects</td> 
-    <td>02/06/18</td>
+    <td>03/06/18</td>
     <td>Incomplete</td>
     <td> </td>
   </tr>
@@ -111,7 +111,7 @@
   <tr>
     <td>19</td>
     <td>The Tricks: DOM Manipulation</td> 
-    <td>02/06/18</td>
+    <td>03/20/18</td>
     <td>Incomplete</td>
     <td> </td>
   </tr>
